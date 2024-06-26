@@ -27,10 +27,10 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -65,9 +65,9 @@
     "TestNG.Sharelane_Tests.signUpPositiveTest.executor": "Run",
     "TestNG.SharlaneTests.executor": "Run",
     "TestNG.SharleneTests.executor": "Run",
-    "git-widget-placeholder": "Homework1",
+    "git-widget-placeholder": "SharelaneTests",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tatyana.bogdanovich/IdeaProjects/Sharelane_QA26_Tati_Bogdanovich/src/Homework1/java/SharelaneTests.java",
+    "last_opened_file_path": "C:/Users/tatyana.bogdanovich/IdeaProjects/Sharelane_QA26_Tati_Bogdanovich",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -153,20 +153,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SharelaneTests" />
         <item itemvalue="TestNG.SharelaneTests.signUpPositiveTest" />
         <item itemvalue="TestNG.SharelaneTests.firstNameNegativeTestEmptyField" />
         <item itemvalue="TestNG.SharelaneTests.allFieldsPositiveTest" />
-        <item itemvalue="TestNG.SharelaneTests" />
         <item itemvalue="TestNG.ShareLane2" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -194,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717624876728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SharelaneTests">
+      <option name="closed" value="true" />
+      <created>1717834255269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717834255269</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SharelaneTests">
+      <option name="closed" value="true" />
+      <created>1717834357224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717834357224</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
