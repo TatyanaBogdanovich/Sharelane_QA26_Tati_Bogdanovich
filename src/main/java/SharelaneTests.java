@@ -5,7 +5,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import java.time.Duration;
 
-
 public class SharelaneTests {
     @Test
     public void zipCodePositiveTest() throws InterruptedException {
